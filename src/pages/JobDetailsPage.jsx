@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaArrowLeft } from "react-icons/fa6";
 import { useNavigate, useParams } from "react-router-dom";
-import jobs from "../constants/Jobs";
+import jobs from "../constants/jobs";
 import { RiHomeOfficeFill } from "react-icons/ri";
 import { FaLocationDot } from "react-icons/fa6";
 import { SiLevelsdotfyi } from "react-icons/si";

@@ -1,5 +1,5 @@
 import React from "react";
-import jobs from "../constants/Jobs";
+import jobs from "../constants/jobs";
 import { RiHomeOfficeFill } from "react-icons/ri";
 import { FaLocationDot } from "react-icons/fa6";
 import { SiLevelsdotfyi } from "react-icons/si";
